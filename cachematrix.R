@@ -2,7 +2,7 @@
 ## functions do
 
 ## The first function (makeCacheMatrix) creates a special, empty "matrix"
-## The special "matrix" is really a list containing a function which will:
+## This matrix is in reality a list containing a function which will:
 ## 1. Set the value of the matrix
 ## 2. Get the value of the matrix
 ## 3. Set the value of the inverse
